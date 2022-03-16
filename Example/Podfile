@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'NineGirdManager_Example' do
+  pod 'NineGirdManager', :path => '../'
+
+  target 'NineGirdManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

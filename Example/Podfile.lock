@@ -1,0 +1,16 @@
+PODS:
+  - NineGirdManager (0.1.0)
+
+DEPENDENCIES:
+  - NineGirdManager (from `../`)
+
+EXTERNAL SOURCES:
+  NineGirdManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NineGirdManager: 5da589ee695ff0ba23628120e0b970b529979b3e
+
+PODFILE CHECKSUM: 2e6f311c5d470e32e0cc1a6a9724f25a4b0d3f92
+
+COCOAPODS: 1.11.2
